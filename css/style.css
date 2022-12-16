@@ -27,6 +27,7 @@ body{
     flex-wrap: wrap;
     overflow: scroll;
     margin: auto;
+    height: 100vh;
 }
 
 h2{
